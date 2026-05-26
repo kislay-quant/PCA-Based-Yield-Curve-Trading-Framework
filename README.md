@@ -1,5 +1,3 @@
-For your GitHub repository, here are suggestions for a brief repository description and a structured README file based on the analysis of Treasury Bond yield changes found in the sources.
-
 ### **Repository Description**
 **PCA-Treasury-Yield-Analysis**: A Python-based Principal Component Analysis (PCA) of daily yield changes for U.S. Treasury securities (1-month to 5-year maturities) using FRED data.
 
